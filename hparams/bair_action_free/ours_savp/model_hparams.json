@@ -7,6 +7,7 @@
     "l2_weight": 0.0,
     "kl_weight": 1.0,
     "video_sn_vae_gan_weight": 0.1,
+    "image_sn_gan_weight": 0.1,
     "video_sn_gan_weight": 0.1,
     "vae_gan_feature_cdist_weight": 10.0,
     "gan_feature_cdist_weight": 0.0,
